@@ -52,15 +52,4 @@ recipes = pd.read_csv("cooking_recipes_test_data.csv")
 
 This allows recipe information and updates to remain available between sessions.
 
-Running the Project
-
-Install the required libraries:
-
-pip install streamlit pandas requests
-
-Then run:
-
-streamlit run Yaser_Project_1.py
-Skills Demonstrated
-
 This project demonstrates Python programming, CSV file handling, Pandas data manipulation, Streamlit development, session state, API integration, user input handling, data filtering, sorting, and basic AI integration.
